@@ -54,7 +54,7 @@ const Footer = () => {
                             <div className="pt-6">
                                 <h4 className="text-white font-semibold mb-4">Connect With Me</h4>
                                 <div className="flex gap-4">
-                                    <a href="https://www.linkedin.com/in/Harinath003" target="_blank" rel="noopener noreferrer" className="p-4 bg-white/10 backdrop-blur-sm text-white rounded-lg hover:bg-blue-600 transition-all duration-300 hover:scale-110">
+                                    <a href="https://www.linkedin.com/in/Harinath03" target="_blank" rel="noopener noreferrer" className="p-4 bg-white/10 backdrop-blur-sm text-white rounded-lg hover:bg-blue-600 transition-all duration-300 hover:scale-110">
                                         <Linkedin className="w-6 h-6" />
                                     </a>
                                     <a href="https://github.com/Harinath003" target="_blank" rel="noopener noreferrer" className="p-4 bg-white/10 backdrop-blur-sm text-white rounded-lg hover:bg-gray-700 transition-all duration-300 hover:scale-110">

@@ -31,7 +31,7 @@ const Hero = () => {
                             <a href="mailto:sharinath2006@gmail.com" className="p-3 bg-white/10 backdrop-blur-sm text-white rounded-lg hover:bg-white/20 transition-all duration-300 hover:scale-110">
                                 <Mail className="w-5 h-5" />
                             </a>
-                            <a href="https://www.linkedin.com/in/Harinath003" target="_blank" rel="noopener noreferrer" className="p-3 bg-white/10 backdrop-blur-sm text-white rounded-lg hover:bg-white/20 transition-all duration-300 hover:scale-110">
+                            <a href="https://www.linkedin.com/in/Harinath03" target="_blank" rel="noopener noreferrer" className="p-3 bg-white/10 backdrop-blur-sm text-white rounded-lg hover:bg-white/20 transition-all duration-300 hover:scale-110">
                                 <Linkedin className="w-5 h-5" />
                             </a>
                             <a href="https://github.com/Harinath003" target="_blank" rel="noopener noreferrer" className="p-3 bg-white/10 backdrop-blur-sm text-white rounded-lg hover:bg-white/20 transition-all duration-300 hover:scale-110">
